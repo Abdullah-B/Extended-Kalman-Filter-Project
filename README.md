@@ -46,8 +46,8 @@ and the code to calculate the Jacobian inside
     
    ### The resutls were
     
-   ![RESULTS](OutPut & Results/Result.PNG)
-   
+   ![RESULTS](/OutPut & Results/Result.PNG)
+
    and the Matrix outputs are documented inside OutPut & Results/ Consol_OUT_PUT.txt
    
 
